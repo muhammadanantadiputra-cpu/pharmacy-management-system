@@ -8,9 +8,3 @@ Fitur Utama
 - Manajemen Distributor: Pengelolaan data distributor yang memasok obat.
 - Sistem Transaksi: Pencatatan data pemesanan obat.
 - Responsive UI: Antarmuka yang mudah digunakan.
-
-Tech Stack
-
-- **Framework**: Laravel 10
-- **Database**: MySQL
-- **Frontend**: Blade Templating Engine, Bootstrap (atau CSS yang kamu gunakan)
